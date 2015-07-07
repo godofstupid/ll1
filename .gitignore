@@ -1,0 +1,6 @@
+*.txt~
+*.v~
+*.vhd~
+*.txt.swp
+*.v.swp
+*.vhd.swp
